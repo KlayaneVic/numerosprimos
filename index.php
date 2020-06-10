@@ -7,7 +7,7 @@
         <form action="processa.php" method="POST">
             <legend>Digite um numero:</legend>
             <input type="number" name="numero" />
-            <input type="buttom" value="Enviar" />
+            <input type="submit" value="Enviar" />
         </form>
     </body>
 </html>
